@@ -194,7 +194,8 @@
     height: 450px;
     width: 350px;
     transition: 0.5s;
-    border:1px solid black;
+    /*border:1px solid black;*/
+    box-shadow:2px 2px 5px #0000007c;
     border-radius:10px;
     text-decoration: none;
     color:black
