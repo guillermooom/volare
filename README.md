@@ -14,7 +14,7 @@ PENDIENTE
 
 - Adriana -> Poner bien la informacion
 
-- Adrian -> quien somos contactanos
+- Adrian -> quien somos, contactanos y mapa web 
 
 - Guille -> diseño del destino
 
