@@ -177,7 +177,6 @@
 
 #sitios{
     margin-top:50px;
-    height: 250px;
     width: 100%;
     display: grid;
     grid-template-columns: repeat(1,1fr);
@@ -223,7 +222,6 @@ h2 {
 #destino-descripcion {
     font-family: Times New Roman, serif;
 }
-
 
 /* ESTILO DE TABLETS */
 @media (min-width:600px){
