@@ -1,10 +1,20 @@
-Guille -> Footer y index
-Adriana -> login y header
-Diana -> Previsualizacion destino 
+REALIZADO
 
-Pendiente
+- Guille -> Footer y index
 
-Diana -> Listado
-Adriana -> Poner bien la informacion
-Adrian -> quien somos contactanos
-Guille -> diseño del destino
+- Adriana -> login y header
+
+- Diana -> Previsualizacion destino 
+
+
+PENDIENTE
+
+
+- Diana -> Listado
+
+- Adriana -> Poner bien la informacion
+
+- Adrian -> quien somos contactanos
+
+- Guille -> diseño del destino
+
