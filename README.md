@@ -4,7 +4,7 @@ REALIZADO
 
 - Adriana -> login y header
 
-- Diana -> 1. Previsualizacion destino 2.  Listado
+- Diana -> 1. Previsualizacion destino 2.  Listado (filtrado por precio y ubicacion)
 
 
 PENDIENTE
