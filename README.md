@@ -4,13 +4,10 @@ REALIZADO
 
 - Adriana -> login y header
 
-- Diana -> Previsualizacion destino 
+- Diana -> 1. Previsualizacion destino 2.  Listado
 
 
 PENDIENTE
-
-
-- Diana -> Listado
 
 - Adriana -> Poner bien la informacion
 
