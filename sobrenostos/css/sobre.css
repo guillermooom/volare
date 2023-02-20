@@ -1,0 +1,42 @@
+body {
+    background-color: lightyellow;
+}
+
+img{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index:3;
+}
+
+.div1 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-top:10%;
+    transform: translate(-50%, -50%);
+    background-color: lightblue;
+    text-align: center;
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    z-index:2;
+}
+
+.div2 {
+    
+}
+
+.h1{
+    font-size: x-large;
+}
+
+.p1{
+    text-align: center;
+}
+
+.p2{
+    text-align: center;
+}
