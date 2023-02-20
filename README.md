@@ -6,12 +6,12 @@ REALIZADO
 
 - Diana -> 1. Previsualizacion destino 2.  Listado (filtrado por precio y ubicacion)
 
+- Adrian -> quien somos, contactanos
+
 
 PENDIENTE
 
 - Adriana -> Poner bien la informacion
-
-- Adrian -> quien somos, contactanos y mapa web 
 
 - Guille -> diseño del destino
 
