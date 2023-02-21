@@ -1,19 +1,25 @@
 body {
     color:black;
+
     }
 
 
     .header {
-      background-color: rgba(255, 255, 255, 0.212);
+     
       display: flex;
       padding: 10px;
       font-family:Verdana, Geneva, Tahoma, sans-serif;
       justify-content: space-between;
       align-items: center;
       height: 100px;
+   
     }
 
+    #logo {
+      width: 100px;
+      height: 100px;
     
+    }
     
     .header a {
       color: black;
