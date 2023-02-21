@@ -1,1 +1,0 @@
-- Carpetas acabadas de Barcelona, Andorra, Mallorca, Granada, Asturias
